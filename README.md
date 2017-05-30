@@ -27,7 +27,7 @@ Será cobrada uma análise relacionada ao case proposto.
 Explicações
 -----------
 
-### O que é MVP?
+### MVP
 
 MVP é a versão mais enxuta possível de um produto focada em testar e validar hipóteses com *early adopters*, consumidores mais tolerantes às potenciais deficiências de um MVP.
 
@@ -73,7 +73,7 @@ Tipos:
   - :+1: Sem necessidade de logística
   - :+1: Pode ser combinado com outros modelos
   - :-1: Lojas de apps ficam com parte da receita
-  - :+1: Poucos realmente compram (2~3%)
+  - :-1: Poucos realmente compram (2~3%)
 - Híbrido: ads + in-app purchasing.
   - :+1: Permite disponibilizar o app de graça
   - :+1: Mais fácil que o premium para criar uma grande base de usuários
